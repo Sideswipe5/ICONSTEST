@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Red-Icons-Font';
-  src:  url('fonts/Red-Icons-Font.eot?uzmw9l');
-  src:  url('fonts/Red-Icons-Font.eot?uzmw9l#iefix') format('embedded-opentype'),
-    url('fonts/Red-Icons-Font.ttf?uzmw9l') format('truetype'),
-    url('fonts/Red-Icons-Font.woff?uzmw9l') format('woff'),
-    url('fonts/Red-Icons-Font.svg?uzmw9l#Red-Icons-Font') format('svg');
+  src:  url('./Red-Icons-Font.eot?uzmw9l');
+  src:  url('./Red-Icons-Font.eot?uzmw9l#iefix') format('embedded-opentype'),
+    url('./Red-Icons-Font.ttf?uzmw9l') format('truetype'),
+    url('./Red-Icons-Font.woff?uzmw9l') format('woff'),
+    url('./Red-Icons-Font.svg?uzmw9l#Red-Icons-Font') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
